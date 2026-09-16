@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  5,
-    "latestVersionName":  "1.4",
-    "apkUrl":  "https://github.com/alancirop/newfoc-prestamos-update/releases/download/v5/newfoc_prestamos_v5.apk",
-    "apkSha256":  "6bd09e73582bb9e0e6bdd8456126acf3bfb766f0c6ac87ff1724ec02e712e35d",
+    "latestVersionCode":  6,
+    "latestVersionName":  "1.5",
+    "apkUrl":  "https://github.com/alancirop/newfoc-prestamos-update/releases/download/v6/newfoc_prestamos_v6.apk",
+    "apkSha256":  "73c2a62a36136cc8b92d2e75c50ea7595857b96438e8f26072eae3c9afe04221",
     "forceUpdate":  true,
     "message":  "Actualizacion obligatoria. Toca ACTUALIZAR para continuar."
 }
